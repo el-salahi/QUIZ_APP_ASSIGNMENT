@@ -15,7 +15,7 @@ def input_answer():
     user_ans = input("Enter your answer here: ")
     return user_ans
 
-
+#FUNCTION: PRINT ANSWERS WITH NUMBERS
 def print_answers(answers):
     ans_num = 1
     for answer in answers.keys():
